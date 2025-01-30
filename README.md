@@ -4,10 +4,6 @@ Email address: yuemily@seas.upenn.edu
 
 I'm currently a third year student studying computer science at the University of Pennsylvania. I'm interested in software development and engineering!
 
-Examples of my past projects:
-https://github.com/google2D
-https://github.com/upenn-nets-2120/project-2216
-
 <!--
 **yuemily12/yuemily12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
